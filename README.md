@@ -3,7 +3,7 @@ This project is about creating an IRC server, fully compatible with an official 
 
 clone this repo and change directory to ft_irc:
 ```html
-   git clone https://github.com/jaymoz/42-school.git
+   git clone https://github.com/jaymoz/ft_irc.git
    cd ft_irc
 ```
 compile the project:
