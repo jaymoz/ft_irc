@@ -1,5 +1,5 @@
 ## Project description
-This project is about creating your an IRC server, fully compatible with an official client such as XChat and Adium.
+This project is about creating an IRC server, fully compatible with an official client such as XChat and Adium.
 
 clone this repo and change directory to ft_irc:
 ```html
